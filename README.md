@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Platynus
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning at the Lublin University Of Technology
