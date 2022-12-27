@@ -2,7 +2,7 @@
 
 👀 I’m interested in Web Development, Algoritms and Machine Learning
 
-🌱 I’m currently learning at the Lublin University Of Technology
+🌱 I’m currently learning at the Lublin University Of Technology where I can get a great opportunity to gain knowledge and skills that will be valuable in your future career. The university has a strong reputation for its computer science programs and is likely to provide you with a solid foundation in the theories and technologies that are essential for success in these fields
 
 💻 I am passionate about new technologies and software development. In my projects, I focus on creating solutions that are useful for users and pay particular attention to the aesthetics and readability of the code.
 
